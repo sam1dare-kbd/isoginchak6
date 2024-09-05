@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+D1,D,Diode_TH_SMD,85.8,-45.175,90.0,top
+D2,D,Diode_TH_SMD,94.225,-52.6,0.0,top
+D3,D,Diode_TH_SMD,106.425,-52.6,0.0,top
+D4,D,Diode_TH_SMD,76.425,-61.2,0.0,top
+D5,D,Diode_TH_SMD,76.41,-66.6,0.0,top
+D6,D,Diode_TH_SMD,122.05,-71.4375,0.0,top
+SW1,SW_PUSH,CherryMX_Solder_1u,56.9913,-45.5612,0.0,top
+SW2,SW_PUSH,CherryMX_Solder_1u,76.0413,-45.5612,0.0,top
+SW3,SW_PUSH,CherryMX_Solder_1u,95.1,-45.56,0.0,top
+SW4,SW_PUSH,CherryMX_Solder_1.5u,61.7538,-64.6112,0.0,top
+SW5,SW_PUSH,CherryMX_Solder_1.75u,92.71,-64.6112,0.0,top
+SW6,SW_PUSH,SW_Cherry_MX_ISOEnter_PCB,118.91875,-55.1,0.0,top
+SW7,SW_PUSH,ResetSW,107.1563,-43.7312,90.0,top
+U1,ProMicro,ProMicro_v2_1side,64.28,-45.2114,90.0,top
